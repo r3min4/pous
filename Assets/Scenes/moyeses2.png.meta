@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4e1d2b72dc373db44a0dd7c00ca00279
+guid: d7c2d50c0bb3a6645acda58b46ff53e9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 221179156697051296
-    second: moyeses_0
+      213: -875948235306438726
+    second: moyeses2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: moyeses_0
+      name: moyeses2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a0f5aa6549c11300800000000000000
-      internalID: 221179156697051296
+      spriteID: abfede098b108d3f0800000000000000
+      internalID: -875948235306438726
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      moyeses2_0: -875948235306438726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
